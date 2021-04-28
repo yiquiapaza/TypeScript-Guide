@@ -23,3 +23,5 @@ That's what a static type-cheker type TypeScript does. **Static types system des
 Static type-system has to make the call over what code should be flagged as an error in its system, even if it's **valid** Javascript that won't immediately throw an error.
 
 ### Typescript Advantages
+
+![Typescript Advantages](images/215653.png)
