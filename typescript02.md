@@ -1,6 +1,8 @@
 # TypeScript
 
-## Primitives
+## Primitives or core Types
+
+![Core Types](images/222711.png)
 
 In javascript has three very commonly used **primitives**: string, number and boolean. Each has a corrsponding type in **Typescript**. As you migth expect, these are the same names. There is a special type any.
 
@@ -15,6 +17,10 @@ Is for numbers like 42. Javascript does not have a special runtime values for in
 ### boolean
 
 Is for the two values **true** and **false**.
+
+## Object Types
+
+![Objects Types](images/231118.png)
 
 ### any
 
