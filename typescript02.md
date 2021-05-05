@@ -18,9 +18,23 @@ Is for numbers like 42. Javascript does not have a special runtime values for in
 
 Is for the two values **true** and **false**.
 
-## Object Types
+## Other Types
 
-![Objects Types](images/231118.png)
+### Object Type
+
+![Object Type](images/231118.png)
+
+### Array
+
+![Array Type](images/224225.png)
+
+### Tuples
+
+![Tuple Type](images/224609.png)
+
+### Enums
+
+![Enum Type](images/224852.png)
 
 ### any
 
